@@ -80,17 +80,84 @@
 }
 .section2 {
   width: 1088px;
-  margin: 82px auto;
+  margin: 0 auto 154px auto;
 }
 .section2-title1 {
   font-family: "BPG Nino Mtavruli Book";
   color: #5863f8;
   font-size: 14px;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 102px;
+  margin-left: 163px;
 }
 
 .section2-title2 {
   font-family: "BPG Nino Mtavruli Book";
   width: 465px;
   color: black;
-  font-size: 40px;
+  font-size: 42px;
+  font-weight: bold;
+  margin-top: 1px;
+  margin-right: 0px;
+  margin-bottom: 65px;
+  margin-left: 163px;
+}
+.section2-food1 {
+  font-family: "BPG Nino Mtavruli Book";
+  font-size: 14px;
+  font-weight: bold;
+  color: #5863f8;
+  text-align: center;
+  padding-top: 23px;
+}
+.section2-food2 {
+  font-family: "BPG Nino Mtavruli Book";
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  text-align: center;
+  padding-top: 5px;
+}
+.section2-par {
+  font-family: "BPG Nino Mtavruli Book";
+  font-size: 14px;
+  color: #b1b1b1;
+  font-weight: 500;
+  text-align: center;
+  padding-top: 10px;
+}
+.img3 {
+  width: 352px;
+  height: 212px;
+}
+.img4 {
+  width: 352px;
+  height: 212px;
+}
+.img5 {
+  width: 352px;
+  height: 212px;
+}
+.block1 {
+  display: inline-block;
+  width: 352px;
+  height: 148px;
+  margin-right: 16px;
+  margin-bottom: 302px;
+  margin-left: 163px;
+  background-color: #f8f8f8;
+}
+.block2 {
+  display: inline-block;
+  width: 352px;
+  height: 148px;
+  margin-right: 16px;
+  background-color: #f8f8f8;
+}
+.block3 {
+  display: inline-block;
+  width: 352px;
+  height: 148px;
+  background-color: #f8f8f8;
 }
